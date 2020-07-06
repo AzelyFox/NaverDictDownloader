@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaverDictDownloader", "NaverDictDownloader.csproj", "{BDFE239F-F944-4931-95D3-F31B9A3DF760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFE239F-F944-4931-95D3-F31B9A3DF760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFE239F-F944-4931-95D3-F31B9A3DF760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFE239F-F944-4931-95D3-F31B9A3DF760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFE239F-F944-4931-95D3-F31B9A3DF760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

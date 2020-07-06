@@ -1,0 +1,8 @@
+D:\LimeCake\Projects\NaverDictDownloader\bin\Release\NaverDictDownloader.exe
+D:\LimeCake\Projects\NaverDictDownloader\bin\Release\NaverDictDownloader.pdb
+D:\LimeCake\Projects\NaverDictDownloader\obj\Release\NaverDictDownloader.csprojAssemblyReference.cache
+D:\LimeCake\Projects\NaverDictDownloader\obj\Release\NaverDictDownloader.csproj.CoreCompileInputs.cache
+D:\LimeCake\Projects\NaverDictDownloader\obj\Release\NaverDictDownloader.exe
+D:\LimeCake\Projects\NaverDictDownloader\obj\Release\NaverDictDownloader.pdb
+D:\LimeCake\Projects\NaverDictDownloader\bin\Release\NSoup.dll
+D:\LimeCake\Projects\NaverDictDownloader\obj\Release\NaverDictDownloader.csproj.CopyComplete
