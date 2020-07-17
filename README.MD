@@ -1,6 +1,23 @@
-# Naver English Dictionary MP3 Downloader
+<h1 align="center">
+  <br>
+  <p>Naver Dict Downloader</p>
+</h1>
 
-A simple, Naver English Dictionary word mp3 downloader.  
+<p align="center">
+    <a href="#license">
+        <img src="https://img.shields.io/github/license/LIMECAKE/NaverDictDownloader?style=flat-square" />
+    </a>
+    <a href="https://github.com/LIMECAKE/NaverDictDownloader/releases">
+        <img src="https://img.shields.io/github/v/release/LIMECAKE/NaverDictDownloader?style=flat-square" />
+    </a>
+    <a href="https://github.com/LIMECAKE/NaverDictDownloader/issues">
+        <img src="https://img.shields.io/badge/SUPPORT-END-black?style=flat-square" />
+    </a>
+</p>
+
+<p align="center">
+A simple, <a href="https://endic.naver.com/">Naver English Dictionary</a> MP3 Downloader
+</p>
 
 ## License
-[MIT License](https://github.com/LIMECAKE/NaverDictDownloader/blob/master/LICENSE)
+[MIT](LICENSE) © 2020 LimeCake <limecake23@gmail.com>
