@@ -5,12 +5,12 @@
 
 <p align="center">
     <a href="#license">
-        <img src="https://img.shields.io/github/license/LIMECAKE/NaverDictDownloader?style=flat-square" />
+        <img src="https://img.shields.io/github/license/AzelyFox/NaverDictDownloader?style=flat-square" />
     </a>
-    <a href="https://github.com/LIMECAKE/NaverDictDownloader/releases">
-        <img src="https://img.shields.io/github/v/release/LIMECAKE/NaverDictDownloader?style=flat-square" />
+    <a href="https://github.com/AzelyFox/NaverDictDownloader/releases">
+        <img src="https://img.shields.io/github/v/release/AzelyFox/NaverDictDownloader?style=flat-square" />
     </a>
-    <a href="https://github.com/LIMECAKE/NaverDictDownloader/issues">
+    <a href="https://github.com/AzelyFox/NaverDictDownloader/issues">
         <img src="https://img.shields.io/badge/SUPPORT-END-black?style=flat-square" />
     </a>
 </p>
